@@ -1,0 +1,13 @@
+{
+    "login": "Login",
+    "register": "Register",
+    "visitor": "visitor",
+    "welcomeText": "Welcome at Ma Academy",
+    "phoneNumber": "Phone Number",
+    "password":"Password",
+    "or":"Or",
+    "teacher":"Teacher",
+    "parent":"Parent",
+    "student":"Studnet"
+
+}
